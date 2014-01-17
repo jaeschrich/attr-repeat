@@ -1,0 +1,22 @@
+{
+  "name": "attr-repeat",
+  "version": "0.0.1",
+  "description": "Render an element for each item in an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "browserify tests/test.js -o tests/bundle.js && echo Open tests/test.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PyScripter255/"
+  },
+  "keywords": [
+    "attractor",
+    "repeat"
+  ],
+  "author": "James A. Eschrich",
+  "license": "MIT",
+  "devDependencies": {
+    "observable": "~2.1.3"
+  }
+}
