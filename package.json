@@ -14,7 +14,7 @@
     "attractor",
     "repeat"
   ],
-  "author": "James A. Eschrich",
+  "author": "PyScripter255",
   "license": "MIT",
   "devDependencies": {
     "observable": "~2.1.3"
